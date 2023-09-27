@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title >
+            Justin Supe Personal Portfolio
+        </title>
+    </head>
+    <body>
+        <h1 style="background-color:red; color:whitesmoke"> Justin A. Supe Palate</h1>
+        <h3>
+            New Jersey Institute of Technology<br>Undergraduated Architecture Student
+            <br>Class of 2027 
+            <br>ID: 31489678 
+            <br>Architecture Program
+        </h3>
+        <p style="color:blueviolet" style="background-color:black">
+            Justin Supe is an undergraduate student at the New Jersey Institute of Technology. 
+            His major is a five-year Bachelor of Architecture degree and I hope he will graduate in the class of 2027. 
+            He was born in Ambato, Ecuador and has a dream of being a Great Architect who can help support the creation of a new world in the world. future. 
+        </p>
+        <a href= https://design.njit.edu>NJIT_HCAD_Home_Page</a><br>
+        <img src="c:\Users\justi\Downloads\IMG-2690.JPG" alt="Picture of my Graduation" windth="300" height="300">
+    </body>
+</html>
